@@ -1,7 +1,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px"> Hi there 
 
 - 👨‍💻 My name is Carlos Vinícius.
-- 🖥  I'm a System Development technician
+- 🖥  I'm a System Development.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Viniiixz)](https://github.com/Viniiixz)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-vin%C3%ADcius-santos-625517192/)](https://www.linkedin.com/in/carlos-vin%C3%ADcius-santos-625517192/)
