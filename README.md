@@ -2,6 +2,7 @@
 
 - 👨‍💻 My name is Carlos Vinícius.
 - 🖥  I'm a System Development.
+- <code><img height="20" src="https://www.google.com/urlsa=i&url=https%3A%2F%2Ffenoxtec.com.br%2F&psig=AOvVaw2F2hKJHvyODGbpA8ZmJ3cA&ust=1601037309637000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMip_PLmgewCFQAAAAAdAAAAABAD"></code> Developer WEB Jr at Fenox Tecnologia.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Viniiixz)](https://github.com/Viniiixz)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-vin%C3%ADcius-santos-625517192/)](https://www.linkedin.com/in/carlos-vin%C3%ADcius-santos-625517192/)
@@ -14,11 +15,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ionic/ionic.png"></code>
+<code><img height="20" src="https://www.softsuave.com/resources/images/2020/ionic/ionic.png" alt="ionic logo"></code>
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png"></code>
-<code><img height="20" src="https://www.softsuave.com/resources/images/2020/ionic/ionic.png" alt="ionic logo"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
