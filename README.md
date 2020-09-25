@@ -1,6 +1,6 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px"> Hi there 
 
-<img src="carlosviniciusdev.epizy.com/assets/images/myPhoto.png">
+<img src="http://carlosviniciusdev.epizy.com/assets/images/myIco.ico">
 
 - 👨‍💻 My name is Carlos Vinícius.
 - 🖥  I'm a System Development.
