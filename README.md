@@ -1,7 +1,5 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px"> Hi there 
 
-### <img src="http://carlosviniciusdev.epizy.com/assets/imaes/myIco.ico">
-
 - 👨‍💻 My name is Carlos Vinícius.
 - 🖥  I'm a System Development.
 - <img height="20" width="20" src="https://fenoxtec.com.br/wp-content/uploads/2020/05/Simbolo-UGC-FENOX.png"> Developer WEB Jr at Fenox Tecnologia.
