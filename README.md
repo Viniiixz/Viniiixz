@@ -2,7 +2,7 @@
 
 - 👨‍💻 My name is Carlos Vinícius.
 - 🖥  I'm a System Development.
-- <img height="20" width="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.linkedin.com%2Fcompany%2F4results-ltda-&psig=AOvVaw2Tp02x3A_L8_MBtXla_FLj&ust=1611949029963000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIiwg56wv-4CFQAAAAAdAAAAABAD"> Microsoft Dynamics 365 Developer at 4Results.
+- <img height="20" width="20" src="https://media-exp1.licdn.com/dms/image/C4E0BAQEdx5EBmhK98w/company-logo_200_200/0/1566412198274?e=1619654400&v=beta&t=0pBCzZ4V_9FYEM26jGDarIBLHd-PbTUABMWqLUizWh0"> Microsoft Dynamics 365 Developer at 4Results.
 
 - 🌐 WEB Site With Projects - http://carlosviniciusdev.epizy.com/
 
@@ -19,7 +19,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://www.softsuave.com/resources/images/2020/ionic/ionic.png" alt="ionic logo"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
