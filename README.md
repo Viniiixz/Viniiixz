@@ -2,7 +2,7 @@
 
 - 👨‍💻 My name is Carlos Vinícius.
 - 🖥  I'm a System Development.
-- <img height="20" width="20" src="https://media-exp1.licdn.com/dms/image/C4E0BAQEdx5EBmhK98w/company-logo_200_200/0/1566412198274?e=1619654400&v=beta&t=0pBCzZ4V_9FYEM26jGDarIBLHd-PbTUABMWqLUizWh0"> Microsoft Dynamics 365 Developer at 4Results.
+- <img height="20" width="20" src="https://www.flaticon.com/br/premium-icon/icons/svg/2098/2098316.svg"> Microsoft Dynamics 365 Developer at 4Results.
 
 - 🌐 WEB Site With Projects - http://carlosviniciusdev.epizy.com/
 
