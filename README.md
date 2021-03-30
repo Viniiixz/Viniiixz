@@ -1,10 +1,11 @@
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px"> Hi there 
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px"> Eae galera!
 
-- 👨‍💻 My name is Carlos Vinícius.
-- 🖥  I'm a System Development.
+- 👨‍💻 Prazer, Carlos Vinícius.
+- 🖥  Desenvolvedor de Sistemas.
 - <img height="20" width="20" src="https://www.flaticon.com/br/premium-icon/icons/svg/2098/2098316.svg"> Microsoft Dynamics 365 Developer at 4Results.
 
 - 🌐 WEB Site With Projects - http://carlosviniciusdev.epizy.com/
+- 📚 Bacharel em Engenharia de Software
 
 ----
 
