@@ -5,7 +5,7 @@
 - <img height="20" width="20" src="https://www.flaticon.com/br/premium-icon/icons/svg/2098/2098316.svg"> Microsoft Dynamics 365 Developer at 4Results.
 
 - 🌐 WEB Site With Projects - http://carlosviniciusdev.epizy.com/
-- 📚 Bacharel em Engenharia de Software
+- 📚 Bacharelado em Engenharia de Software
 
 ----
 
