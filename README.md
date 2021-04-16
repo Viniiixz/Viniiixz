@@ -36,7 +36,7 @@
 
 <img width="390px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniiixz&hide=html&layout=compact&show_icons=true" />
 <img width="420px" align="left" src="https://github-readme-stats.vercel.app/api?username=viniiixz&theme=default&show_icons=true" />
-<a href="https://wakatime.com/@accomigt">
+<a href="https://wakatime.com/@viniiixz">
   <img src="https://softWeb.vercel.app/api/wakatime?username=viniiixz&show_icons=true&hide_border=true&bg_color=02265c&title_color=ea5e00&text_color=FFFFFF&icon_color=00d200">
 </a>  
 
