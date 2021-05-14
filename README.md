@@ -37,4 +37,6 @@
 <img width="390px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniiixz&hide=html&layout=compact&show_icons=true" />
 <img width="420px" align="left" src="https://github-readme-stats.vercel.app/api?username=viniiixz&theme=default&show_icons=true" />
 
+----
 
+[![Carlos wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=viniiixz&theme=dark)](https://wakatime.com/@viniiixz)
