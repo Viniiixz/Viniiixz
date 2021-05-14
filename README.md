@@ -38,3 +38,5 @@
 <img width="420px" align="left" src="https://github-readme-stats.vercel.app/api?username=viniiixz&theme=default&show_icons=true" />
 
 ----
+
+<figure><embed src="https://wakatime.com/share/@viniiixz/5c21c83e-3e9c-4fc8-b0ca-47576e84dd7b.svg"></embed></figure>
