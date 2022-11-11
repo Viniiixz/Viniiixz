@@ -1,11 +1,11 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px"> Eae galera!
 
-- 👨‍💻 Prazer, Carlos Vinícius.
+- 👨 Prazer, Carlos Vinícius.
 - 🖥  Desenvolvedor de Sistemas.
-- <img height="20" width="20" src="https://www.flaticon.com/br/premium-icon/icons/svg/2098/2098316.svg"> Microsoft Dynamics 365 Developer at 4Results.
+- 👨‍💻 Microsoft Dynamics 365/AX 2012 Developer at GSW.
 
 - 🌐 WEB Site With Projects - http://carlosviniciusdev.epizy.com/ ###(AGUARDE O NOVO E COM MAIS PROJETOS)
-- 📚 Bacharelado em Engenharia de Software na UniBTA
+- 📚 Análise e Desenvolvimento de Sistemas na Uninter
 
 ----
 
