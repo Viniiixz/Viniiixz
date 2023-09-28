@@ -1,11 +1,6 @@
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px"> Eae galera!
 
-- 👨 Prazer, Carlos Vinícius.
-- 🖥  Desenvolvedor de Sistemas.
 - 👨‍💻 Microsoft Dynamics 365/AX 2012 Developer at GSW.
-
 - 🌐 WEB Site With Projects - http://carlosviniciusdev.epizy.com/ ###(AGUARDE O NOVO E COM MAIS PROJETOS)
-- 📚 Análise e Desenvolvimento de Sistemas na Uninter
 
 ----
 
